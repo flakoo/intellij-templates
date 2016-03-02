@@ -1,1 +1,1 @@
-# intellij-templates
+# Intellij templates
