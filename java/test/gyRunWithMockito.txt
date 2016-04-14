@@ -1,0 +1,5 @@
+<template name="mocked" value="@RunWith(MockitoJUnitRunner.class)" description="Run with mockito" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <context>
+    <option name="JAVA_DECLARATION" value="true" />
+  </context>
+</template>
