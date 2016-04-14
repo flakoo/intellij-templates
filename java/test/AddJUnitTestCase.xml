@@ -1,6 +1,0 @@
-<template name="test" value="@Test&#10;public void should$BEHAVIOUR$() {&#10;&#9;// arrange&#10;&#9;$END$&#10;&#9;&#10;&#9;// act&#10;&#9;&#10;&#9;// assert&#10;&#9;&#10;}" description="Unit test case" toReformat="false" toShortenFQNames="true">
-  <variable name="BEHAVIOUR" expression="" defaultValue="Behave" alwaysStopAt="true" />
-  <context>
-    <option name="JAVA_DECLARATION" value="true" />
-  </context>
-</template>
